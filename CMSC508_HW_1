@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T18:38:28.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="fNyZZbC6CIuT3zW1u02-" version="13.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-08-28T18:43:56.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="LeZzB7JH-T16Nv-oVuA8" version="13.6.5" type="github" pages="5">
   <diagram id="Bs6o_32eKgjJ4NhktC-2" name="Question 1a">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -258,6 +258,9 @@
         <mxCell id="N8AhLf31_bAcEM3D75oV-3" value="grade" style="whiteSpace=wrap;html=1;align=center;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="590" y="295" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Vf25cCZQMGEpo9dhFrjJ-1" value="Question 1a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="525" y="25" width="65" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -365,6 +368,9 @@
         <mxCell id="977-lNulyVrqZuP7-b4z-3" value="PLAYER_ID&#xa;name&#xa;number&#xa;position&#xa;goals_scored&#xa;assists&#xa;games_played" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontStyle=0" vertex="1" parent="977-lNulyVrqZuP7-b4z-2">
           <mxGeometry y="30" width="175" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="W1AQwvH9kJ7NkJxWjt-n-0" value="Question 1b" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="oljlY47nCR0Vp6vpdQ1e-1">
+          <mxGeometry x="590" y="130" width="70" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -465,6 +471,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="S6OTzj0KX1MQt8vaNfB1-0" value="Question 1c" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="Gx5QyBs97pxC8McNIvgL-1">
+          <mxGeometry x="690" y="180" width="80" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -521,6 +530,9 @@
             <mxPoint x="450" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OjHjP7gIZthCgdPSNDe9-0" value="Question 1d" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="MFwg2FOogE7Vglo2We4M-1">
+          <mxGeometry x="600" y="30" width="90" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -531,6 +543,9 @@
         <mxCell id="czxRnHofRcPqEQNbLnGa-1" parent="czxRnHofRcPqEQNbLnGa-0" />
         <mxCell id="czxRnHofRcPqEQNbLnGa-2" value="Beer_Drinker(_Beer_Drinker_ID, name, phone, address, liked_beers, favorite_beer)&lt;br&gt;Beer_Buddies(Beer_Drinker_ID, Beer_Drinker_ID)&lt;br&gt;Beer(Beer_ID, name, brewery, ABV)&lt;br&gt;Ale(_Beer_ID, name, brewery, ABV, color)&lt;br&gt;Likes(Beer_Drinker_ID, Beer_ID)&lt;br&gt;Favorite(Beer_Drinker_ID, Beer_ID)&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="czxRnHofRcPqEQNbLnGa-1">
           <mxGeometry x="220" y="50" width="410" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="2ECNn48QKhgTalvYrJ8U-0" value="Question 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="czxRnHofRcPqEQNbLnGa-1">
+          <mxGeometry x="660" y="10" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
